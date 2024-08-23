@@ -1,0 +1,182 @@
+/* .register-container {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.register-form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.register-form .title {
+  color: #5254e9;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.register-form .input-group input {
+  background-color: #F5F5F5;
+  border-radius: 10px;
+}
+
+.register-form .btn {
+  background-color: #4a7cf2;
+  color: rgb(17, 24, 235);
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.register-form .btn:hover {
+  background-color: #3737f4;
+} */
+
+
+/* .register-container {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  max-width: 500px; 
+  width: 100%;
+}
+
+.register-form .title {
+  color: #5254e9;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.register-form .input-group {
+  margin-bottom: 15px;
+}
+
+.register-form .input-group input {
+  background-color: #F5F5F5;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.register-form .input-group label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  display: block;
+  text-align: left;
+}
+
+.register-form .btn {
+  background-color: #4a7cf2;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  font-weight: 600;
+}
+
+.register-form .btn:hover {
+  background-color: #3737f4;
+  color: #fff;
+}
+
+.register-form .error-message {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.register-form .upload-field {
+  background-color: #F5F5F5;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.register-form .upload-label {
+  display: block;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.register-form .upload-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.register-form .upload-button:hover {
+  background-color: #0056b3;
+}
+
+.register-form .login-link {
+  color: #212429;
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.register-form .login-link:hover {
+  text-decoration: underline;
+} */
+
+/* Adjust the container to center the form and restrict its width */
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+}
+
+/* Make the form smaller by limiting its width */
+.register-form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  max-width: 500px; /* Adjust this value to make the form smaller */
+  width: 100%; /* Ensure responsiveness */
+}
+
+/* Adjust title styling */
+.register-form .title {
+  color: #5254e9;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Input fields styling */
+.register-form .input-group input {
+  background-color: #F5F5F5;
+  border-radius: 10px;
+}
+
+/* Adjust the button styling */
+.register-form .btn {
+  background-color: #4a7cf2;
+  color: rgb(17, 24, 235);
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.register-form .btn:hover {
+  background-color: #3737f4;
+}
